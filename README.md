@@ -8,8 +8,6 @@ SWE @ ABB | UiB CS student
 - Based in Norway
 - OOP hater
 
-### how to reach me
-**Discord** sugg.
 <!--
 **rami-droid/rami-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
