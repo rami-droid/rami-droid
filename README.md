@@ -1,5 +1,15 @@
-## Hi there 👋
+## Rami
+SWE @ ABB | UiB CS student
 
+
+## about me 
+- working part time for ABB telecom on internal software solutions
+- Second year at UiB studying computer science
+- Based in Norway
+- OOP hater
+
+### how to reach me
+**Discord** sugg.
 <!--
 **rami-droid/rami-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
